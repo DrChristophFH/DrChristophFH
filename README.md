@@ -4,8 +4,6 @@ I'm Christoph from Tirol (the fancy mountain place ⛰️), Austria, and I'm cur
 
 I'm a curious coder with a soft spot for **algorithms** and **data structures**, the magical stuff that first got me hooked on programming. While I still enjoy unraveling problems with a good ol' stack or tree, my career compass is currently pointed toward **Software Architecture**, a space I find endlessly fascinating.
 
----
-
 ## 🧠 What I'm Into
 
 🛠 **Architecture & Systems Thinking**
@@ -17,8 +15,6 @@ Yes, I can be a perfectionist. No, it doesn't stop me anymore. I've learned to b
 👓 **Bachelor Thesis Throwback**
 I once went deep into the Java debugging internals (JDPA & JDI) and built a **custom visual debugger** using **DearImGUI** and Java bindings. It was equal parts pain and pleasure, definitely a formative experience!
 
----
-
 ## 💼 Currently @ [SCCH](https://www.scch.at)
 
 At SCCH, I'm working on software solutions that use **LLMs** (Large Language Models) and **VLMs** (Vision-Language Models) to solve problems that were previously out of reach.
@@ -28,8 +24,6 @@ Some of the cool stuff I'm involved in:
 * 🧠 Hybrid **RAG** (Retrieval-Augmented Generation) systems
 * 🔍 **Static code analysis** powered by AI
 * 🤖 Building intelligent assistants for niche, complex domains
-
----
 
 ## 🗺 Let's Connect!
 
